@@ -6,8 +6,19 @@
   "publisher": "anomic30",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/anomic30/prizm-vscode-theme"
   },
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "minimal",
+    "minimalistic",
+    "google idx",
+    "idx",
+    "anom",
+    "anomic30"
+  ],
   "engines": {
     "vscode": "^1.84.0"
   },
