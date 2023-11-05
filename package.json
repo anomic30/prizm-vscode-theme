@@ -1,0 +1,26 @@
+{
+  "name": "prizm",
+  "displayName": "Prizm",
+  "description": "A sleek and minimalistic dark theme.",
+  "version": "1.0.0",
+  "publisher": "anomic30",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Prizm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Prizm-color-theme.json"
+      }
+    ]
+  }
+}
